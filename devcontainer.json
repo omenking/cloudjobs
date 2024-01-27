@@ -1,0 +1,4 @@
+{
+  "name": "cloudjobs",
+  "dockerComposeFile": "docker-compose.yml"
+}
