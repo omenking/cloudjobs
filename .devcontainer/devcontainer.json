@@ -3,5 +3,8 @@
   "dockerComposeFile": ["/workspaces/cloudjobs/docker-compose.yml"],
   "service": "db",
   "workspaceFolder": "/workspaces/cloudjobs",
-  "forwardPorts": [5432]
+  "forwardPorts": [5432],
+  "features": {
+    "ghcr.io/devcontainers/features/aws-cli:1": {}
+  }
 }
