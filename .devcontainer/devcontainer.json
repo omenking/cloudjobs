@@ -1,6 +1,6 @@
 {
   "name": "cloudjobs",
-  "dockerComposeFile": ["docker-compose.yml"],
+  "dockerComposeFile": ["/workspaces/cloudjobs/docker-compose.yml"],
   "service": "db",
   "workspaceFolder": "/workspaces/cloudjobs",
   "forwardPorts": [5432]
