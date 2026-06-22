@@ -12,7 +12,7 @@
 			"moby": "true"
 		},
 		"ghcr.io/devcontainers/features/aws-cli:1": {},
-		"ghcr.io/devcontainers/features/ruby:1": {},
+		"ghcr.io/devcontainers/features/ruby:2": {},
 		"ghcr.io/robbert229/devcontainer-features/postgresql-client:1": {}
 	},
 	"forwardPorts": [5432]
